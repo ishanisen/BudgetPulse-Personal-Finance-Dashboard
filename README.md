@@ -1,6 +1,6 @@
 # BudgetPulse
 
-> An end-to-end data science project — data pipeline, SQL storage, ML forecasting, anomaly detection, and interactive dashboard.
+> An end-to-end data science project - data pipeline, SQL storage, ML forecasting, anomaly detection, and interactive dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)
@@ -88,8 +88,8 @@ streamlit run app/app.py
 ## Sample Insights
 
 - Groceries and Dining account for the largest monthly discretionary spend
-- Utility bills show low variance — ideal for budget planning
-- ~2–3% of transactions are statistical outliers
+- Utility bills show low variance - ideal for budget planning
+- ~2-3% of transactions are statistical outliers
 
 ---
 
