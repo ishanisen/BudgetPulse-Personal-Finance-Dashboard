@@ -1,0 +1,1398 @@
+transaction_id,date,merchant,category,amount,type,is_anomaly
+0,2025-04-02,Netflix,Entertainment,35.79,debit,False
+1,2025-04-02,McDonald's,Dining,39.51,debit,False
+2,2025-04-02,Nova Scotia Power,Utilities,88.26,debit,False
+3,2025-04-02,Sobeys,Groceries,101.28,debit,False
+4,2025-04-02,Esso,Transport,35.73,debit,False
+5,2025-04-03,City Water,Utilities,88.36,debit,False
+6,2025-04-03,Netflix,Entertainment,15.72,debit,False
+7,2025-04-03,Costco,Groceries,62.73,debit,False
+8,2025-04-03,Walmart,Groceries,63.9,debit,False
+9,2025-04-04,Local Bistro,Dining,18.99,debit,False
+10,2025-04-04,Uber,Transport,52.51,debit,False
+11,2025-04-04,Local Bistro,Dining,1.0,debit,False
+12,2025-04-04,Netflix,Entertainment,8.49,debit,False
+13,2025-04-05,Nova Scotia Power,Utilities,92.71,debit,False
+14,2025-04-05,Shoppers Drug Mart,Health,92.9,debit,False
+15,2025-04-05,IKEA,Shopping,13.96,debit,False
+16,2025-04-06,Nova Scotia Power,Utilities,97.11,debit,False
+17,2025-04-06,Cineplex,Entertainment,27.38,debit,False
+18,2025-04-06,Local Bistro,Dining,30.57,debit,False
+19,2025-04-07,Walmart,Groceries,102.46,debit,False
+20,2025-04-07,Amazon,Shopping,81.72,debit,False
+21,2025-04-07,Loblaws,Groceries,75.97,debit,False
+22,2025-04-07,McDonald's,Dining,11.04,debit,False
+23,2025-04-08,Walmart,Groceries,111.63,debit,False
+24,2025-04-08,Uber,Transport,14.84,debit,False
+25,2025-04-08,Walmart,Groceries,117.99,debit,False
+26,2025-04-09,Uber,Transport,61.25,debit,False
+27,2025-04-09,Employer Payroll,Income,2471.25,credit,False
+28,2025-04-10,Spotify,Entertainment,28.22,debit,False
+29,2025-04-10,Employer Payroll,Income,2217.41,credit,False
+30,2025-04-10,Loblaws,Groceries,131.94,debit,False
+31,2025-04-10,Sobeys,Groceries,83.93,debit,False
+32,2025-04-10,Esso,Transport,1.0,debit,False
+33,2025-04-11,Walmart,Groceries,76.03,debit,False
+34,2025-04-11,Local Bistro,Dining,16.16,debit,False
+35,2025-04-11,Metro Transit,Transport,59.87,debit,False
+36,2025-04-11,Dentist,Health,51.51,debit,False
+37,2025-04-12,Amazon,Shopping,39.9,debit,False
+38,2025-04-12,Dentist,Health,98.75,debit,False
+39,2025-04-12,Esso,Transport,38.45,debit,False
+40,2025-04-12,Best Buy,Shopping,53.66,debit,False
+41,2025-04-12,Shell,Transport,46.94,debit,False
+42,2025-04-12,Best Buy,Shopping,55.39,debit,False
+43,2025-04-13,Esso,Transport,1.0,debit,False
+44,2025-04-13,Tim Hortons,Dining,6.05,debit,False
+45,2025-04-14,Shell,Transport,51.91,debit,False
+46,2025-04-14,Shell,Transport,41.77,debit,False
+47,2025-04-15,IKEA,Shopping,95.2,debit,False
+48,2025-04-15,H&M,Shopping,21.37,debit,False
+49,2025-04-15,Metro Transit,Transport,25.15,debit,False
+50,2025-04-15,Esso,Transport,47.05,debit,False
+51,2025-04-15,Sobeys,Groceries,72.02,debit,False
+52,2025-04-15,McDonald's,Dining,92.8,debit,True
+53,2025-04-16,Amazon,Shopping,91.99,debit,False
+54,2025-04-16,Sushi Place,Dining,27.89,debit,False
+55,2025-04-16,Sobeys,Groceries,85.12,debit,False
+56,2025-04-17,Costco,Groceries,127.16,debit,False
+57,2025-04-17,Uber,Transport,72.85,debit,False
+58,2025-04-17,Costco,Groceries,58.58,debit,False
+59,2025-04-17,Esso,Transport,46.54,debit,False
+60,2025-04-17,Employer Payroll,Income,2101.31,credit,False
+61,2025-04-18,Nova Scotia Power,Utilities,123.08,debit,False
+62,2025-04-19,Costco,Groceries,38.48,debit,False
+63,2025-04-19,Costco,Groceries,87.06,debit,False
+64,2025-04-20,H&M,Shopping,13.46,debit,False
+65,2025-04-20,Shell,Transport,49.55,debit,False
+66,2025-04-20,Employer Payroll,Income,2362.7,credit,False
+67,2025-04-20,Amazon,Shopping,58.9,debit,False
+68,2025-04-20,IKEA,Shopping,35.84,debit,False
+69,2025-04-21,H&M,Shopping,140.36,debit,False
+70,2025-04-21,Freelance Transfer,Income,1911.99,credit,False
+71,2025-04-22,Gym Membership,Health,107.63,debit,False
+72,2025-04-22,E-Transfer,Income,2258.61,credit,False
+73,2025-04-22,Shell,Transport,30.71,debit,False
+74,2025-04-22,E-Transfer,Income,2573.15,credit,False
+75,2025-04-22,Walmart,Groceries,99.21,debit,False
+76,2025-04-22,Steam,Entertainment,8.09,debit,False
+77,2025-04-23,Walmart,Groceries,111.36,debit,False
+78,2025-04-23,Cineplex,Entertainment,12.28,debit,False
+79,2025-04-23,Sobeys,Groceries,43.9,debit,False
+80,2025-04-23,Shell,Transport,58.13,debit,False
+81,2025-04-23,Loblaws,Groceries,58.97,debit,False
+82,2025-04-23,H&M,Shopping,82.29,debit,False
+83,2025-04-24,Walmart,Groceries,86.26,debit,False
+84,2025-04-24,Local Bistro,Dining,24.41,debit,False
+85,2025-04-24,Amazon,Shopping,130.58,debit,True
+86,2025-04-24,Netflix,Entertainment,29.77,debit,False
+87,2025-04-24,Tim Hortons,Dining,25.94,debit,False
+88,2025-04-25,Loblaws,Groceries,116.37,debit,False
+89,2025-04-25,Rogers,Utilities,119.43,debit,False
+90,2025-04-25,McDonald's,Dining,26.14,debit,False
+91,2025-04-25,Metro Transit,Transport,59.81,debit,False
+92,2025-04-25,E-Transfer,Income,2109.51,credit,False
+93,2025-04-26,H&M,Shopping,57.89,debit,False
+94,2025-04-26,Cineplex,Entertainment,22.31,debit,False
+95,2025-04-26,Cineplex,Entertainment,11.91,debit,False
+96,2025-04-26,Tim Hortons,Dining,43.86,debit,False
+97,2025-04-26,Metro Transit,Transport,46.03,debit,False
+98,2025-04-27,Sushi Place,Dining,30.48,debit,False
+99,2025-04-27,Loblaws,Groceries,39.98,debit,False
+100,2025-04-27,Shoppers Drug Mart,Health,13.9,debit,False
+101,2025-04-27,Walmart,Groceries,90.29,debit,False
+102,2025-04-27,H&M,Shopping,124.41,debit,False
+103,2025-04-27,Esso,Transport,71.62,debit,False
+104,2025-04-27,Sushi Place,Dining,28.11,debit,False
+105,2025-04-27,McDonald's,Dining,49.56,debit,False
+106,2025-04-27,H&M,Shopping,86.61,debit,False
+107,2025-04-28,Shoppers Drug Mart,Health,25.76,debit,False
+108,2025-04-29,Shell,Transport,76.21,debit,False
+109,2025-04-29,Employer Payroll,Income,2021.38,credit,False
+110,2025-04-29,Walmart,Groceries,74.96,debit,False
+111,2025-04-30,Costco,Groceries,86.37,debit,False
+112,2025-04-30,Shoppers Drug Mart,Health,65.14,debit,False
+113,2025-05-01,IKEA,Shopping,42.42,debit,False
+114,2025-05-01,H&M,Shopping,35.37,debit,False
+115,2025-05-01,Spotify,Entertainment,18.85,debit,False
+116,2025-05-01,Best Buy,Shopping,100.25,debit,False
+117,2025-05-01,Metro Transit,Transport,62.32,debit,False
+118,2025-05-01,Walmart,Groceries,48.99,debit,False
+119,2025-05-01,Freelance Transfer,Income,2133.1,credit,False
+120,2025-05-02,Tim Hortons,Dining,41.77,debit,False
+121,2025-05-02,Cineplex,Entertainment,41.22,debit,False
+122,2025-05-02,Cineplex,Entertainment,7.39,debit,False
+123,2025-05-03,Shell,Transport,65.65,debit,False
+124,2025-05-03,Walmart,Groceries,77.88,debit,False
+125,2025-05-03,Nova Scotia Power,Utilities,146.8,debit,False
+126,2025-05-03,Local Bistro,Dining,27.71,debit,False
+127,2025-05-04,Local Bistro,Dining,14.01,debit,False
+128,2025-05-04,Costco,Groceries,131.29,debit,False
+129,2025-05-04,Best Buy,Shopping,141.16,debit,False
+130,2025-05-05,Best Buy,Shopping,77.93,debit,False
+131,2025-05-06,Shell,Transport,40.95,debit,False
+132,2025-05-06,Dentist,Health,62.44,debit,False
+133,2025-05-06,Metro Transit,Transport,91.96,debit,False
+134,2025-05-07,Walmart,Groceries,93.43,debit,False
+135,2025-05-07,H&M,Shopping,43.87,debit,False
+136,2025-05-07,McDonald's,Dining,24.88,debit,False
+137,2025-05-07,Costco,Groceries,70.21,debit,False
+138,2025-05-07,Gym Membership,Health,36.43,debit,False
+139,2025-05-07,Steam,Entertainment,28.5,debit,False
+140,2025-05-07,Sushi Place,Dining,33.36,debit,False
+141,2025-05-07,Netflix,Entertainment,13.07,debit,False
+142,2025-05-08,Tim Hortons,Dining,27.69,debit,False
+143,2025-05-08,Cineplex,Entertainment,32.78,debit,False
+144,2025-05-08,Dentist,Health,64.69,debit,False
+145,2025-05-08,Amazon,Shopping,112.36,debit,False
+146,2025-05-08,Costco,Groceries,103.31,debit,False
+147,2025-05-09,Shell,Transport,63.98,debit,False
+148,2025-05-09,IKEA,Shopping,45.42,debit,False
+149,2025-05-09,Steam,Entertainment,20.12,debit,False
+150,2025-05-09,Metro Transit,Transport,63.62,debit,False
+151,2025-05-09,Best Buy,Shopping,48.84,debit,False
+152,2025-05-09,Walmart,Groceries,77.82,debit,False
+153,2025-05-11,McDonald's,Dining,15.73,debit,False
+154,2025-05-11,Esso,Transport,20.72,debit,False
+155,2025-05-11,Esso,Transport,24.88,debit,False
+156,2025-05-11,Tim Hortons,Dining,40.81,debit,False
+157,2025-05-11,Costco,Groceries,147.77,debit,False
+158,2025-05-12,Gym Membership,Health,63.03,debit,False
+159,2025-05-12,Best Buy,Shopping,41.14,debit,False
+160,2025-05-12,IKEA,Shopping,123.76,debit,False
+161,2025-05-12,Bell,Utilities,96.32,debit,False
+162,2025-05-12,Sushi Place,Dining,15.62,debit,False
+163,2025-05-13,Uber,Transport,34.86,debit,False
+164,2025-05-13,Sushi Place,Dining,23.18,debit,False
+165,2025-05-13,H&M,Shopping,87.25,debit,False
+166,2025-05-14,Nova Scotia Power,Utilities,63.8,debit,False
+167,2025-05-14,Costco,Groceries,42.78,debit,False
+168,2025-05-14,Local Bistro,Dining,17.22,debit,False
+169,2025-05-15,Sobeys,Groceries,76.34,debit,False
+170,2025-05-15,Walmart,Groceries,94.68,debit,False
+171,2025-05-15,Sushi Place,Dining,24.8,debit,False
+172,2025-05-15,IKEA,Shopping,74.07,debit,False
+173,2025-05-15,Sobeys,Groceries,60.18,debit,False
+174,2025-05-16,Netflix,Entertainment,42.76,debit,False
+175,2025-05-16,Walmart,Groceries,97.19,debit,False
+176,2025-05-16,Local Bistro,Dining,28.82,debit,False
+177,2025-05-16,H&M,Shopping,78.48,debit,False
+178,2025-05-16,Steam,Entertainment,29.84,debit,False
+179,2025-05-16,Bell,Utilities,111.84,debit,False
+180,2025-05-17,Walmart,Groceries,81.67,debit,False
+181,2025-05-17,IKEA,Shopping,123.82,debit,False
+182,2025-05-17,Nova Scotia Power,Utilities,63.68,debit,False
+183,2025-05-17,H&M,Shopping,114.2,debit,False
+184,2025-05-17,Dentist,Health,53.69,debit,False
+185,2025-05-18,Sobeys,Groceries,44.35,debit,False
+186,2025-05-18,Metro Transit,Transport,51.84,debit,False
+187,2025-05-19,Netflix,Entertainment,38.76,debit,False
+188,2025-05-19,Amazon,Shopping,8.99,debit,False
+189,2025-05-19,Sushi Place,Dining,55.47,debit,False
+190,2025-05-19,Metro Transit,Transport,68.59,debit,False
+191,2025-05-19,IKEA,Shopping,51.54,debit,False
+192,2025-05-19,Best Buy,Shopping,1.0,debit,False
+193,2025-05-19,Tim Hortons,Dining,48.31,debit,False
+194,2025-05-20,Best Buy,Shopping,59.35,debit,False
+195,2025-05-20,Local Bistro,Dining,32.69,debit,False
+196,2025-05-20,Shell,Transport,13.02,debit,False
+197,2025-05-20,Rogers,Utilities,107.56,debit,False
+198,2025-05-20,Uber,Transport,50.19,debit,False
+199,2025-05-20,H&M,Shopping,150.81,debit,False
+200,2025-05-21,City Water,Utilities,126.51,debit,False
+201,2025-05-21,Sushi Place,Dining,51.12,debit,False
+202,2025-05-21,Esso,Transport,28.44,debit,False
+203,2025-05-22,Cineplex,Entertainment,8.17,debit,False
+204,2025-05-22,Costco,Groceries,32.24,debit,False
+205,2025-05-22,Loblaws,Groceries,105.58,debit,False
+206,2025-05-22,Dentist,Health,102.34,debit,False
+207,2025-05-22,Local Bistro,Dining,48.53,debit,False
+208,2025-05-22,Spotify,Entertainment,26.45,debit,False
+209,2025-05-22,McDonald's,Dining,23.44,debit,False
+210,2025-05-22,Metro Transit,Transport,25.7,debit,False
+211,2025-05-23,Amazon,Shopping,131.13,debit,False
+212,2025-05-23,Best Buy,Shopping,1.0,debit,False
+213,2025-05-23,Sobeys,Groceries,84.56,debit,False
+214,2025-05-23,Sobeys,Groceries,108.89,debit,False
+215,2025-05-23,Steam,Entertainment,17.19,debit,False
+216,2025-05-23,Shoppers Drug Mart,Health,1.0,debit,False
+217,2025-05-23,Spotify,Entertainment,19.94,debit,False
+218,2025-05-23,Tim Hortons,Dining,34.05,debit,False
+219,2025-05-24,Esso,Transport,16.18,debit,False
+220,2025-05-25,Bell,Utilities,72.47,debit,False
+221,2025-05-26,Cineplex,Entertainment,24.88,debit,False
+222,2025-05-26,Sushi Place,Dining,20.05,debit,False
+223,2025-05-26,Shoppers Drug Mart,Health,28.29,debit,False
+224,2025-05-26,Sushi Place,Dining,26.39,debit,False
+225,2025-05-27,Spotify,Entertainment,9.65,debit,False
+226,2025-05-27,Netflix,Entertainment,25.15,debit,False
+227,2025-05-27,Loblaws,Groceries,121.14,debit,False
+228,2025-05-27,Loblaws,Groceries,110.54,debit,False
+229,2025-05-28,Local Bistro,Dining,23.34,debit,False
+230,2025-05-28,City Water,Utilities,159.35,debit,False
+231,2025-05-28,Sobeys,Groceries,66.39,debit,False
+232,2025-05-29,Shell,Transport,62.03,debit,False
+233,2025-05-29,Dentist,Health,20.48,debit,False
+234,2025-05-29,Shoppers Drug Mart,Health,61.14,debit,False
+235,2025-05-30,Steam,Entertainment,29.69,debit,False
+236,2025-05-30,Amazon,Shopping,34.47,debit,False
+237,2025-05-30,Dentist,Health,23.82,debit,False
+238,2025-05-31,Cineplex,Entertainment,9.39,debit,False
+239,2025-06-01,Spotify,Entertainment,34.8,debit,False
+240,2025-06-01,Netflix,Entertainment,20.77,debit,False
+241,2025-06-01,Metro Transit,Transport,31.91,debit,False
+242,2025-06-01,IKEA,Shopping,74.6,debit,False
+243,2025-06-02,E-Transfer,Income,2027.74,credit,False
+244,2025-06-02,Walmart,Groceries,126.87,debit,False
+245,2025-06-02,Shoppers Drug Mart,Health,7.61,debit,False
+246,2025-06-02,Cineplex,Entertainment,1.0,debit,False
+247,2025-06-03,Spotify,Entertainment,29.41,debit,False
+248,2025-06-03,Uber,Transport,35.84,debit,False
+249,2025-06-03,Bell,Utilities,84.35,debit,False
+250,2025-06-04,Rogers,Utilities,101.21,debit,False
+251,2025-06-04,Esso,Transport,28.38,debit,False
+252,2025-06-05,Costco,Groceries,100.03,debit,False
+253,2025-06-05,Local Bistro,Dining,19.35,debit,False
+254,2025-06-05,Dentist,Health,90.22,debit,False
+255,2025-06-06,Walmart,Groceries,55.67,debit,False
+256,2025-06-06,Uber,Transport,29.73,debit,False
+257,2025-06-06,Loblaws,Groceries,30.85,debit,False
+258,2025-06-06,Uber,Transport,12.45,debit,False
+259,2025-06-06,E-Transfer,Income,2209.62,credit,False
+260,2025-06-07,Amazon,Shopping,42.41,debit,False
+261,2025-06-07,Rogers,Utilities,98.35,debit,False
+262,2025-06-07,Netflix,Entertainment,7.89,debit,False
+263,2025-06-08,Rogers,Utilities,84.95,debit,False
+264,2025-06-08,Loblaws,Groceries,86.42,debit,False
+265,2025-06-09,Uber,Transport,60.21,debit,False
+266,2025-06-09,Spotify,Entertainment,21.7,debit,False
+267,2025-06-09,Steam,Entertainment,20.89,debit,False
+268,2025-06-09,Sushi Place,Dining,35.32,debit,False
+269,2025-06-09,Gym Membership,Health,123.21,debit,False
+270,2025-06-09,Local Bistro,Dining,26.2,debit,False
+271,2025-06-09,Spotify,Entertainment,21.14,debit,False
+272,2025-06-10,McDonald's,Dining,1.0,debit,False
+273,2025-06-10,Spotify,Entertainment,30.35,debit,False
+274,2025-06-10,Uber,Transport,55.87,debit,False
+275,2025-06-11,Sushi Place,Dining,33.41,debit,False
+276,2025-06-11,Shoppers Drug Mart,Health,60.74,debit,False
+277,2025-06-11,Uber,Transport,78.53,debit,False
+278,2025-06-11,Bell,Utilities,108.17,debit,False
+279,2025-06-11,Walmart,Groceries,78.43,debit,False
+280,2025-06-11,IKEA,Shopping,116.47,debit,False
+281,2025-06-12,Nova Scotia Power,Utilities,115.82,debit,False
+282,2025-06-12,Gym Membership,Health,43.39,debit,False
+283,2025-06-12,IKEA,Shopping,188.53,debit,False
+284,2025-06-12,Amazon,Shopping,1.0,debit,False
+285,2025-06-12,Shell,Transport,51.77,debit,False
+286,2025-06-13,Spotify,Entertainment,35.1,debit,False
+287,2025-06-13,Sobeys,Groceries,97.06,debit,False
+288,2025-06-13,Rogers,Utilities,91.31,debit,False
+289,2025-06-13,Gym Membership,Health,93.17,debit,False
+290,2025-06-14,Dentist,Health,111.48,debit,False
+291,2025-06-14,Metro Transit,Transport,36.11,debit,False
+292,2025-06-14,Sobeys,Groceries,72.18,debit,False
+293,2025-06-15,Costco,Groceries,93.4,debit,False
+294,2025-06-15,Spotify,Entertainment,19.44,debit,False
+295,2025-06-15,McDonald's,Dining,37.82,debit,False
+296,2025-06-15,Costco,Groceries,129.88,debit,False
+297,2025-06-15,McDonald's,Dining,19.71,debit,False
+298,2025-06-15,Shell,Transport,9.43,debit,False
+299,2025-06-16,Bell,Utilities,71.86,debit,False
+300,2025-06-16,Best Buy,Shopping,164.11,debit,False
+301,2025-06-17,IKEA,Shopping,114.05,debit,False
+302,2025-06-17,Metro Transit,Transport,56.81,debit,False
+303,2025-06-17,Sushi Place,Dining,30.76,debit,False
+304,2025-06-17,Costco,Groceries,88.0,debit,False
+305,2025-06-17,Cineplex,Entertainment,19.1,debit,False
+306,2025-06-18,Local Bistro,Dining,19.18,debit,False
+307,2025-06-18,Gym Membership,Health,80.96,debit,False
+308,2025-06-18,Netflix,Entertainment,45.39,debit,False
+309,2025-06-19,Walmart,Groceries,81.0,debit,False
+310,2025-06-19,Bell,Utilities,74.7,debit,False
+311,2025-06-20,Amazon,Shopping,1.0,debit,False
+312,2025-06-20,Metro Transit,Transport,22.49,debit,False
+313,2025-06-20,Walmart,Groceries,80.53,debit,False
+314,2025-06-20,Shell,Transport,44.87,debit,False
+315,2025-06-20,Metro Transit,Transport,18.62,debit,False
+316,2025-06-20,H&M,Shopping,115.22,debit,False
+317,2025-06-21,Esso,Transport,55.33,debit,False
+318,2025-06-21,Local Bistro,Dining,12.74,debit,False
+319,2025-06-21,IKEA,Shopping,67.14,debit,False
+320,2025-06-22,E-Transfer,Income,2200.14,credit,False
+321,2025-06-22,E-Transfer,Income,2231.65,credit,False
+322,2025-06-22,Shoppers Drug Mart,Health,32.9,debit,False
+323,2025-06-23,Walmart,Groceries,89.48,debit,False
+324,2025-06-23,City Water,Utilities,99.18,debit,False
+325,2025-06-23,Amazon,Shopping,47.83,debit,False
+326,2025-06-23,Metro Transit,Transport,30.74,debit,False
+327,2025-06-24,McDonald's,Dining,16.33,debit,False
+328,2025-06-24,Sushi Place,Dining,6.89,debit,False
+329,2025-06-24,Metro Transit,Transport,38.15,debit,False
+330,2025-06-24,Tim Hortons,Dining,29.6,debit,False
+331,2025-06-24,Sobeys,Groceries,73.86,debit,False
+332,2025-06-25,Sushi Place,Dining,35.28,debit,False
+333,2025-06-25,City Water,Utilities,80.68,debit,False
+334,2025-06-26,IKEA,Shopping,39.78,debit,False
+335,2025-06-27,Local Bistro,Dining,17.08,debit,False
+336,2025-06-28,Shell,Transport,20.56,debit,False
+337,2025-06-28,Walmart,Groceries,106.39,debit,False
+338,2025-06-29,Tim Hortons,Dining,31.79,debit,False
+339,2025-06-29,Freelance Transfer,Income,2246.93,credit,False
+340,2025-06-30,Amazon,Shopping,1.0,debit,False
+341,2025-06-30,Netflix,Entertainment,37.65,debit,False
+342,2025-06-30,McDonald's,Dining,9.38,debit,False
+343,2025-07-01,Loblaws,Groceries,60.51,debit,False
+344,2025-07-01,H&M,Shopping,1.0,debit,False
+345,2025-07-01,Sobeys,Groceries,135.89,debit,False
+346,2025-07-01,Employer Payroll,Income,2242.2,credit,False
+347,2025-07-02,Esso,Transport,36.64,debit,False
+348,2025-07-02,Metro Transit,Transport,19.23,debit,False
+349,2025-07-02,Sobeys,Groceries,66.31,debit,False
+350,2025-07-02,Sobeys,Groceries,149.66,debit,False
+351,2025-07-02,Dentist,Health,86.89,debit,False
+352,2025-07-02,Shoppers Drug Mart,Health,56.13,debit,False
+353,2025-07-03,Loblaws,Groceries,88.02,debit,False
+354,2025-07-04,Walmart,Groceries,145.17,debit,False
+355,2025-07-04,Employer Payroll,Income,2343.52,credit,False
+356,2025-07-04,IKEA,Shopping,51.54,debit,False
+357,2025-07-06,Loblaws,Groceries,74.56,debit,False
+358,2025-07-06,Netflix,Entertainment,1.0,debit,False
+359,2025-07-06,Cineplex,Entertainment,23.84,debit,False
+360,2025-07-06,Local Bistro,Dining,40.1,debit,False
+361,2025-07-06,Loblaws,Groceries,80.26,debit,False
+362,2025-07-06,Uber,Transport,55.54,debit,False
+363,2025-07-07,IKEA,Shopping,84.93,debit,False
+364,2025-07-07,Uber,Transport,71.83,debit,False
+365,2025-07-07,Local Bistro,Dining,14.74,debit,False
+366,2025-07-08,Cineplex,Entertainment,31.49,debit,False
+367,2025-07-08,McDonald's,Dining,26.56,debit,False
+368,2025-07-08,Uber,Transport,30.94,debit,False
+369,2025-07-08,Esso,Transport,47.44,debit,False
+370,2025-07-08,McDonald's,Dining,19.37,debit,False
+371,2025-07-08,Sobeys,Groceries,161.8,debit,False
+372,2025-07-09,Rogers,Utilities,99.13,debit,False
+373,2025-07-10,McDonald's,Dining,54.56,debit,False
+374,2025-07-10,Esso,Transport,9.74,debit,False
+375,2025-07-10,Netflix,Entertainment,31.44,debit,False
+376,2025-07-10,Spotify,Entertainment,6.81,debit,False
+377,2025-07-10,E-Transfer,Income,2154.75,credit,False
+378,2025-07-10,Netflix,Entertainment,30.65,debit,False
+379,2025-07-11,Local Bistro,Dining,26.79,debit,False
+380,2025-07-11,Uber,Transport,67.58,debit,False
+381,2025-07-11,Shoppers Drug Mart,Health,51.47,debit,False
+382,2025-07-11,Local Bistro,Dining,40.28,debit,False
+383,2025-07-11,McDonald's,Dining,30.01,debit,False
+384,2025-07-11,Cineplex,Entertainment,21.2,debit,False
+385,2025-07-11,Spotify,Entertainment,24.47,debit,False
+386,2025-07-12,Tim Hortons,Dining,6.92,debit,False
+387,2025-07-12,Sobeys,Groceries,100.03,debit,False
+388,2025-07-12,Sushi Place,Dining,12.36,debit,False
+389,2025-07-13,Metro Transit,Transport,70.56,debit,False
+390,2025-07-13,Metro Transit,Transport,73.94,debit,False
+391,2025-07-14,H&M,Shopping,49.14,debit,False
+392,2025-07-14,Tim Hortons,Dining,257.55,debit,True
+393,2025-07-14,McDonald's,Dining,29.23,debit,False
+394,2025-07-14,Sushi Place,Dining,30.95,debit,False
+395,2025-07-14,Netflix,Entertainment,30.65,debit,False
+396,2025-07-15,Costco,Groceries,75.99,debit,False
+397,2025-07-15,Employer Payroll,Income,1985.88,credit,False
+398,2025-07-15,Esso,Transport,20.85,debit,False
+399,2025-07-15,Spotify,Entertainment,1.0,debit,False
+400,2025-07-15,Cineplex,Entertainment,26.83,debit,False
+401,2025-07-15,Amazon,Shopping,24.69,debit,False
+402,2025-07-15,Local Bistro,Dining,15.93,debit,False
+403,2025-07-15,Esso,Transport,23.98,debit,False
+404,2025-07-16,Esso,Transport,52.65,debit,False
+405,2025-07-16,Local Bistro,Dining,30.5,debit,False
+406,2025-07-16,Shoppers Drug Mart,Health,79.7,debit,False
+407,2025-07-16,Loblaws,Groceries,93.68,debit,False
+408,2025-07-16,McDonald's,Dining,64.83,debit,False
+409,2025-07-16,H&M,Shopping,18.86,debit,False
+410,2025-07-17,Sobeys,Groceries,66.31,debit,False
+411,2025-07-17,Loblaws,Groceries,101.66,debit,False
+412,2025-07-18,Best Buy,Shopping,114.8,debit,False
+413,2025-07-18,Gym Membership,Health,45.06,debit,False
+414,2025-07-18,Spotify,Entertainment,8.26,debit,False
+415,2025-07-19,Steam,Entertainment,30.49,debit,False
+416,2025-07-19,Metro Transit,Transport,92.15,debit,False
+417,2025-07-19,Cineplex,Entertainment,29.38,debit,False
+418,2025-07-20,Sushi Place,Dining,36.15,debit,False
+419,2025-07-20,Local Bistro,Dining,44.25,debit,False
+420,2025-07-20,Amazon,Shopping,32.47,debit,False
+421,2025-07-21,Amazon,Shopping,49.12,debit,False
+422,2025-07-21,Uber,Transport,47.09,debit,False
+423,2025-07-21,H&M,Shopping,86.19,debit,False
+424,2025-07-21,Shell,Transport,44.67,debit,False
+425,2025-07-22,Cineplex,Entertainment,29.33,debit,False
+426,2025-07-22,City Water,Utilities,107.64,debit,False
+427,2025-07-22,Sushi Place,Dining,34.33,debit,False
+428,2025-07-22,Metro Transit,Transport,68.77,debit,False
+429,2025-07-22,Loblaws,Groceries,92.2,debit,False
+430,2025-07-22,Nova Scotia Power,Utilities,110.14,debit,False
+431,2025-07-23,Local Bistro,Dining,22.1,debit,False
+432,2025-07-23,Nova Scotia Power,Utilities,100.72,debit,False
+433,2025-07-23,Nova Scotia Power,Utilities,109.22,debit,False
+434,2025-07-23,Sushi Place,Dining,15.75,debit,False
+435,2025-07-23,Steam,Entertainment,32.07,debit,False
+436,2025-07-23,Bell,Utilities,103.67,debit,False
+437,2025-07-23,Spotify,Entertainment,18.33,debit,False
+438,2025-07-23,Netflix,Entertainment,27.15,debit,False
+439,2025-07-25,Metro Transit,Transport,277.1,debit,True
+440,2025-07-25,Best Buy,Shopping,149.76,debit,False
+441,2025-07-25,Shell,Transport,49.27,debit,False
+442,2025-07-25,Walmart,Groceries,93.0,debit,False
+443,2025-07-25,Sobeys,Groceries,72.96,debit,False
+444,2025-07-26,Sushi Place,Dining,22.56,debit,False
+445,2025-07-26,Walmart,Groceries,72.86,debit,False
+446,2025-07-26,Loblaws,Groceries,97.26,debit,False
+447,2025-07-26,H&M,Shopping,83.78,debit,False
+448,2025-07-26,Shoppers Drug Mart,Health,52.55,debit,False
+449,2025-07-27,Gym Membership,Health,66.99,debit,False
+450,2025-07-27,Sushi Place,Dining,33.51,debit,False
+451,2025-07-27,Costco,Groceries,69.23,debit,False
+452,2025-07-28,Sushi Place,Dining,26.03,debit,False
+453,2025-07-29,Esso,Transport,59.17,debit,False
+454,2025-07-29,Gym Membership,Health,69.75,debit,False
+455,2025-07-29,Netflix,Entertainment,9.79,debit,False
+456,2025-07-29,Costco,Groceries,69.94,debit,False
+457,2025-07-29,Shoppers Drug Mart,Health,77.6,debit,False
+458,2025-07-29,Shell,Transport,4.3,debit,False
+459,2025-07-30,Uber,Transport,33.72,debit,False
+460,2025-07-30,IKEA,Shopping,69.27,debit,False
+461,2025-07-30,IKEA,Shopping,106.66,debit,False
+462,2025-07-30,Shell,Transport,20.45,debit,False
+463,2025-07-31,Esso,Transport,38.14,debit,False
+464,2025-07-31,Walmart,Groceries,78.12,debit,False
+465,2025-07-31,Shell,Transport,64.01,debit,False
+466,2025-07-31,Loblaws,Groceries,134.8,debit,False
+467,2025-07-31,Best Buy,Shopping,78.71,debit,False
+468,2025-08-01,Tim Hortons,Dining,27.4,debit,False
+469,2025-08-01,Loblaws,Groceries,90.9,debit,False
+470,2025-08-01,Spotify,Entertainment,27.09,debit,False
+471,2025-08-01,Local Bistro,Dining,26.65,debit,False
+472,2025-08-01,Sushi Place,Dining,49.6,debit,False
+473,2025-08-01,IKEA,Shopping,41.18,debit,False
+474,2025-08-01,Loblaws,Groceries,139.03,debit,False
+475,2025-08-01,Sushi Place,Dining,6.54,debit,False
+476,2025-08-02,Esso,Transport,64.92,debit,False
+477,2025-08-02,Rogers,Utilities,84.13,debit,False
+478,2025-08-03,Uber,Transport,41.54,debit,False
+479,2025-08-04,Tim Hortons,Dining,17.68,debit,False
+480,2025-08-04,Loblaws,Groceries,55.99,debit,False
+481,2025-08-04,Cineplex,Entertainment,19.52,debit,False
+482,2025-08-04,Local Bistro,Dining,27.95,debit,False
+483,2025-08-04,Costco,Groceries,50.25,debit,False
+484,2025-08-04,Shell,Transport,75.07,debit,False
+485,2025-08-05,Costco,Groceries,111.32,debit,False
+486,2025-08-06,Local Bistro,Dining,26.71,debit,False
+487,2025-08-06,Loblaws,Groceries,76.92,debit,False
+488,2025-08-07,E-Transfer,Income,2559.54,credit,False
+489,2025-08-07,Loblaws,Groceries,104.23,debit,False
+490,2025-08-08,Amazon,Shopping,144.97,debit,False
+491,2025-08-08,Tim Hortons,Dining,41.87,debit,False
+492,2025-08-08,Uber,Transport,46.19,debit,False
+493,2025-08-09,Tim Hortons,Dining,34.02,debit,False
+494,2025-08-09,Employer Payroll,Income,2463.46,credit,False
+495,2025-08-09,Nova Scotia Power,Utilities,95.05,debit,False
+496,2025-08-09,Gym Membership,Health,98.01,debit,False
+497,2025-08-09,Costco,Groceries,88.44,debit,False
+498,2025-08-09,IKEA,Shopping,42.65,debit,False
+499,2025-08-10,Sushi Place,Dining,60.74,debit,False
+500,2025-08-10,Uber,Transport,31.97,debit,False
+501,2025-08-11,Walmart,Groceries,70.48,debit,False
+502,2025-08-11,Esso,Transport,57.37,debit,False
+503,2025-08-11,Cineplex,Entertainment,31.29,debit,False
+504,2025-08-11,Shoppers Drug Mart,Health,178.6,debit,False
+505,2025-08-12,Local Bistro,Dining,20.75,debit,False
+506,2025-08-12,Dentist,Health,85.89,debit,False
+507,2025-08-12,Rogers,Utilities,109.98,debit,False
+508,2025-08-12,Costco,Groceries,82.1,debit,False
+509,2025-08-12,Walmart,Groceries,77.28,debit,False
+510,2025-08-12,Amazon,Shopping,1.0,debit,False
+511,2025-08-13,Costco,Groceries,91.73,debit,False
+512,2025-08-13,Tim Hortons,Dining,51.61,debit,False
+513,2025-08-13,Walmart,Groceries,116.41,debit,False
+514,2025-08-14,Freelance Transfer,Income,2475.36,credit,False
+515,2025-08-14,Nova Scotia Power,Utilities,68.65,debit,False
+516,2025-08-14,Rogers,Utilities,119.43,debit,False
+517,2025-08-14,Employer Payroll,Income,2235.85,credit,False
+518,2025-08-14,Walmart,Groceries,109.01,debit,False
+519,2025-08-14,IKEA,Shopping,101.64,debit,False
+520,2025-08-15,Shoppers Drug Mart,Health,1.0,debit,False
+521,2025-08-15,Esso,Transport,39.17,debit,False
+522,2025-08-15,H&M,Shopping,91.19,debit,False
+523,2025-08-16,Dentist,Health,10.17,debit,False
+524,2025-08-16,City Water,Utilities,120.18,debit,False
+525,2025-08-16,Walmart,Groceries,83.49,debit,False
+526,2025-08-16,Employer Payroll,Income,2274.86,credit,False
+527,2025-08-16,Walmart,Groceries,82.39,debit,False
+528,2025-08-17,E-Transfer,Income,2215.36,credit,False
+529,2025-08-17,Metro Transit,Transport,19.34,debit,False
+530,2025-08-17,H&M,Shopping,124.81,debit,False
+531,2025-08-17,Sobeys,Groceries,70.19,debit,False
+532,2025-08-18,Metro Transit,Transport,61.94,debit,False
+533,2025-08-18,McDonald's,Dining,46.34,debit,False
+534,2025-08-18,Best Buy,Shopping,135.73,debit,False
+535,2025-08-18,Local Bistro,Dining,26.66,debit,False
+536,2025-08-19,Netflix,Entertainment,20.52,debit,False
+537,2025-08-19,Cineplex,Entertainment,27.28,debit,False
+538,2025-08-19,Tim Hortons,Dining,26.93,debit,False
+539,2025-08-19,Loblaws,Groceries,83.88,debit,False
+540,2025-08-20,Best Buy,Shopping,111.63,debit,False
+541,2025-08-21,Gym Membership,Health,56.77,debit,False
+542,2025-08-21,Walmart,Groceries,89.18,debit,False
+543,2025-08-22,Shell,Transport,50.53,debit,False
+544,2025-08-22,Bell,Utilities,116.11,debit,False
+545,2025-08-22,Walmart,Groceries,65.48,debit,False
+546,2025-08-22,McDonald's,Dining,34.79,debit,False
+547,2025-08-22,Rogers,Utilities,76.54,debit,False
+548,2025-08-23,IKEA,Shopping,123.15,debit,False
+549,2025-08-23,Tim Hortons,Dining,32.61,debit,False
+550,2025-08-23,Metro Transit,Transport,36.02,debit,False
+551,2025-08-23,Sobeys,Groceries,87.02,debit,False
+552,2025-08-23,Sushi Place,Dining,30.96,debit,False
+553,2025-08-23,H&M,Shopping,97.46,debit,False
+554,2025-08-23,Best Buy,Shopping,21.17,debit,False
+555,2025-08-24,Sushi Place,Dining,24.21,debit,False
+556,2025-08-24,Tim Hortons,Dining,43.08,debit,False
+557,2025-08-24,Costco,Groceries,105.05,debit,False
+558,2025-08-25,Tim Hortons,Dining,6.4,debit,False
+559,2025-08-25,Walmart,Groceries,76.07,debit,False
+560,2025-08-25,Sushi Place,Dining,48.64,debit,False
+561,2025-08-25,Sobeys,Groceries,80.5,debit,False
+562,2025-08-25,Best Buy,Shopping,81.28,debit,False
+563,2025-08-25,Sushi Place,Dining,25.4,debit,False
+564,2025-08-25,Cineplex,Entertainment,20.16,debit,False
+565,2025-08-25,Costco,Groceries,52.11,debit,False
+566,2025-08-26,Loblaws,Groceries,64.0,debit,False
+567,2025-08-26,Costco,Groceries,90.09,debit,False
+568,2025-08-26,Local Bistro,Dining,18.99,debit,False
+569,2025-08-26,Walmart,Groceries,46.21,debit,False
+570,2025-08-27,Dentist,Health,4.42,debit,False
+571,2025-08-27,Steam,Entertainment,3.55,debit,False
+572,2025-08-27,Steam,Entertainment,30.23,debit,False
+573,2025-08-27,Cineplex,Entertainment,44.4,debit,False
+574,2025-08-27,Uber,Transport,72.69,debit,False
+575,2025-08-27,Tim Hortons,Dining,36.46,debit,False
+576,2025-08-28,Dentist,Health,71.25,debit,False
+577,2025-08-28,Spotify,Entertainment,21.04,debit,False
+578,2025-08-28,City Water,Utilities,118.97,debit,False
+579,2025-08-29,Steam,Entertainment,19.37,debit,False
+580,2025-08-29,Steam,Entertainment,3.07,debit,False
+581,2025-08-29,City Water,Utilities,97.54,debit,False
+582,2025-08-30,Nova Scotia Power,Utilities,137.86,debit,False
+583,2025-08-30,Bell,Utilities,470.28,debit,True
+584,2025-08-30,Loblaws,Groceries,66.9,debit,False
+585,2025-08-30,Gym Membership,Health,1.0,debit,False
+586,2025-08-31,Metro Transit,Transport,18.32,debit,False
+587,2025-08-31,Shoppers Drug Mart,Health,64.22,debit,False
+588,2025-09-01,Rogers,Utilities,105.6,debit,False
+589,2025-09-01,Uber,Transport,44.61,debit,False
+590,2025-09-01,Walmart,Groceries,101.57,debit,False
+591,2025-09-02,Loblaws,Groceries,125.92,debit,False
+592,2025-09-02,Local Bistro,Dining,28.73,debit,False
+593,2025-09-02,City Water,Utilities,101.01,debit,False
+594,2025-09-03,Local Bistro,Dining,9.34,debit,False
+595,2025-09-03,Spotify,Entertainment,13.07,debit,False
+596,2025-09-03,Local Bistro,Dining,17.22,debit,False
+597,2025-09-04,Metro Transit,Transport,20.24,debit,False
+598,2025-09-04,Walmart,Groceries,100.73,debit,False
+599,2025-09-04,Amazon,Shopping,186.13,debit,False
+600,2025-09-04,Gym Membership,Health,95.8,debit,False
+601,2025-09-05,Bell,Utilities,81.63,debit,False
+602,2025-09-05,Shoppers Drug Mart,Health,61.75,debit,False
+603,2025-09-06,Bell,Utilities,96.32,debit,False
+604,2025-09-06,Costco,Groceries,94.43,debit,False
+605,2025-09-06,Shell,Transport,209.1,debit,True
+606,2025-09-06,IKEA,Shopping,95.73,debit,False
+607,2025-09-07,Tim Hortons,Dining,3.65,debit,False
+608,2025-09-07,Loblaws,Groceries,101.9,debit,False
+609,2025-09-07,Walmart,Groceries,94.08,debit,False
+610,2025-09-07,IKEA,Shopping,36.38,debit,False
+611,2025-09-07,Netflix,Entertainment,14.66,debit,False
+612,2025-09-08,Costco,Groceries,51.98,debit,False
+613,2025-09-09,Walmart,Groceries,63.66,debit,False
+614,2025-09-09,Sobeys,Groceries,92.01,debit,False
+615,2025-09-10,Steam,Entertainment,20.76,debit,False
+616,2025-09-10,Walmart,Groceries,101.75,debit,False
+617,2025-09-10,Metro Transit,Transport,43.88,debit,False
+618,2025-09-10,Gym Membership,Health,31.8,debit,False
+619,2025-09-10,Costco,Groceries,97.57,debit,False
+620,2025-09-10,Uber,Transport,78.45,debit,False
+621,2025-09-10,Sushi Place,Dining,4.66,debit,False
+622,2025-09-11,IKEA,Shopping,69.44,debit,False
+623,2025-09-11,Esso,Transport,26.92,debit,False
+624,2025-09-11,Loblaws,Groceries,62.93,debit,False
+625,2025-09-12,McDonald's,Dining,62.79,debit,False
+626,2025-09-12,Tim Hortons,Dining,30.13,debit,False
+627,2025-09-12,Walmart,Groceries,96.8,debit,False
+628,2025-09-12,Amazon,Shopping,136.8,debit,False
+629,2025-09-12,Local Bistro,Dining,46.2,debit,False
+630,2025-09-13,Rogers,Utilities,112.59,debit,False
+631,2025-09-13,Cineplex,Entertainment,25.82,debit,False
+632,2025-09-14,McDonald's,Dining,16.21,debit,False
+633,2025-09-14,Metro Transit,Transport,18.38,debit,False
+634,2025-09-15,Spotify,Entertainment,8.97,debit,False
+635,2025-09-15,Shoppers Drug Mart,Health,1.0,debit,False
+636,2025-09-15,Nova Scotia Power,Utilities,109.71,debit,False
+637,2025-09-16,Uber,Transport,34.86,debit,False
+638,2025-09-16,Shell,Transport,56.99,debit,False
+639,2025-09-16,Walmart,Groceries,102.05,debit,False
+640,2025-09-16,Netflix,Entertainment,15.61,debit,False
+641,2025-09-16,Metro Transit,Transport,94.86,debit,False
+642,2025-09-16,H&M,Shopping,133.32,debit,False
+643,2025-09-17,Uber,Transport,40.27,debit,False
+644,2025-09-17,Costco,Groceries,86.52,debit,False
+645,2025-09-17,Tim Hortons,Dining,30.56,debit,False
+646,2025-09-18,Sushi Place,Dining,1.0,debit,False
+647,2025-09-18,E-Transfer,Income,2210.8,credit,False
+648,2025-09-18,Costco,Groceries,55.23,debit,False
+649,2025-09-18,Shell,Transport,55.16,debit,False
+650,2025-09-18,Walmart,Groceries,86.92,debit,False
+651,2025-09-18,Esso,Transport,37.57,debit,False
+652,2025-09-18,H&M,Shopping,1.0,debit,False
+653,2025-09-19,IKEA,Shopping,42.67,debit,False
+654,2025-09-19,Bell,Utilities,113.5,debit,False
+655,2025-09-19,McDonald's,Dining,8.76,debit,False
+656,2025-09-20,McDonald's,Dining,24.8,debit,False
+657,2025-09-20,Tim Hortons,Dining,50.36,debit,False
+658,2025-09-21,Freelance Transfer,Income,2087.27,credit,False
+659,2025-09-21,Spotify,Entertainment,15.89,debit,False
+660,2025-09-22,Sobeys,Groceries,90.11,debit,False
+661,2025-09-22,Local Bistro,Dining,22.18,debit,False
+662,2025-09-23,Netflix,Entertainment,6.33,debit,False
+663,2025-09-23,Sobeys,Groceries,78.26,debit,False
+664,2025-09-23,Nova Scotia Power,Utilities,70.75,debit,False
+665,2025-09-23,Costco,Groceries,30.94,debit,False
+666,2025-09-23,Sobeys,Groceries,101.24,debit,False
+667,2025-09-23,Employer Payroll,Income,2351.83,credit,False
+668,2025-09-23,Rogers,Utilities,85.59,debit,False
+669,2025-09-24,Gym Membership,Health,1.0,debit,False
+670,2025-09-25,Uber,Transport,47.39,debit,False
+671,2025-09-25,H&M,Shopping,74.23,debit,False
+672,2025-09-25,McDonald's,Dining,36.69,debit,False
+673,2025-09-26,Sushi Place,Dining,13.4,debit,False
+674,2025-09-26,Sushi Place,Dining,45.52,debit,False
+675,2025-09-26,McDonald's,Dining,15.06,debit,False
+676,2025-09-26,Shell,Transport,1.0,debit,False
+677,2025-09-27,Amazon,Shopping,44.71,debit,False
+678,2025-09-27,Loblaws,Groceries,124.05,debit,False
+679,2025-09-27,Nova Scotia Power,Utilities,107.48,debit,False
+680,2025-09-27,Amazon,Shopping,112.1,debit,False
+681,2025-09-27,Tim Hortons,Dining,60.36,debit,False
+682,2025-09-27,Loblaws,Groceries,70.36,debit,False
+683,2025-09-27,Spotify,Entertainment,26.78,debit,False
+684,2025-09-27,City Water,Utilities,88.88,debit,False
+685,2025-09-28,Best Buy,Shopping,153.08,debit,False
+686,2025-09-28,H&M,Shopping,79.43,debit,False
+687,2025-09-29,Employer Payroll,Income,2544.43,credit,False
+688,2025-09-29,Shoppers Drug Mart,Health,45.39,debit,False
+689,2025-09-30,City Water,Utilities,104.62,debit,False
+690,2025-10-01,H&M,Shopping,35.91,debit,False
+691,2025-10-01,Dentist,Health,31.69,debit,False
+692,2025-10-01,Shell,Transport,62.59,debit,False
+693,2025-10-01,Metro Transit,Transport,36.28,debit,False
+694,2025-10-01,Cineplex,Entertainment,15.49,debit,False
+695,2025-10-01,Sushi Place,Dining,32.24,debit,False
+696,2025-10-02,Costco,Groceries,103.21,debit,False
+697,2025-10-03,IKEA,Shopping,141.41,debit,False
+698,2025-10-03,Loblaws,Groceries,124.33,debit,False
+699,2025-10-04,Best Buy,Shopping,102.81,debit,False
+700,2025-10-04,IKEA,Shopping,147.78,debit,False
+701,2025-10-05,Rogers,Utilities,144.98,debit,False
+702,2025-10-05,City Water,Utilities,73.88,debit,False
+703,2025-10-05,Amazon,Shopping,1.0,debit,False
+704,2025-10-05,Amazon,Shopping,177.81,debit,False
+705,2025-10-06,H&M,Shopping,90.37,debit,False
+706,2025-10-06,Loblaws,Groceries,109.47,debit,False
+707,2025-10-06,Nova Scotia Power,Utilities,72.42,debit,False
+708,2025-10-07,Sushi Place,Dining,35.36,debit,False
+709,2025-10-07,Costco,Groceries,491.16,debit,True
+710,2025-10-07,Local Bistro,Dining,206.39,debit,True
+711,2025-10-07,Bell,Utilities,129.34,debit,False
+712,2025-10-07,Loblaws,Groceries,90.43,debit,False
+713,2025-10-07,Cineplex,Entertainment,7.03,debit,False
+714,2025-10-07,Sushi Place,Dining,34.0,debit,False
+715,2025-10-08,Loblaws,Groceries,94.86,debit,False
+716,2025-10-08,Amazon,Shopping,165.57,debit,False
+717,2025-10-08,Sushi Place,Dining,37.35,debit,False
+718,2025-10-08,Employer Payroll,Income,1820.16,credit,False
+719,2025-10-08,Freelance Transfer,Income,2069.73,credit,False
+720,2025-10-08,Amazon,Shopping,78.92,debit,False
+721,2025-10-09,Best Buy,Shopping,120.01,debit,False
+722,2025-10-09,Amazon,Shopping,116.42,debit,False
+723,2025-10-09,H&M,Shopping,28.66,debit,False
+724,2025-10-10,IKEA,Shopping,158.5,debit,False
+725,2025-10-10,Best Buy,Shopping,94.73,debit,False
+726,2025-10-10,Netflix,Entertainment,8.04,debit,False
+727,2025-10-10,Amazon,Shopping,97.23,debit,False
+728,2025-10-11,Best Buy,Shopping,68.95,debit,False
+729,2025-10-11,McDonald's,Dining,37.72,debit,False
+730,2025-10-11,Spotify,Entertainment,12.15,debit,False
+731,2025-10-12,Dentist,Health,76.78,debit,False
+732,2025-10-12,Metro Transit,Transport,28.66,debit,False
+733,2025-10-13,Esso,Transport,3.12,debit,False
+734,2025-10-13,Dentist,Health,1.0,debit,False
+735,2025-10-13,Shoppers Drug Mart,Health,110.5,debit,False
+736,2025-10-13,Gym Membership,Health,37.93,debit,False
+737,2025-10-13,Sushi Place,Dining,66.37,debit,False
+738,2025-10-13,City Water,Utilities,85.89,debit,False
+739,2025-10-14,IKEA,Shopping,42.54,debit,False
+740,2025-10-14,McDonald's,Dining,42.22,debit,False
+741,2025-10-14,Tim Hortons,Dining,44.74,debit,False
+742,2025-10-14,Steam,Entertainment,21.85,debit,False
+743,2025-10-14,Loblaws,Groceries,84.79,debit,False
+744,2025-10-14,Shoppers Drug Mart,Health,112.5,debit,False
+745,2025-10-15,Uber,Transport,58.64,debit,False
+746,2025-10-15,Sobeys,Groceries,59.7,debit,False
+747,2025-10-15,Gym Membership,Health,231.54,debit,True
+748,2025-10-16,Dentist,Health,46.02,debit,False
+749,2025-10-16,H&M,Shopping,88.08,debit,False
+750,2025-10-16,Costco,Groceries,119.42,debit,False
+751,2025-10-16,Local Bistro,Dining,23.44,debit,False
+752,2025-10-16,Costco,Groceries,120.96,debit,False
+753,2025-10-16,Tim Hortons,Dining,1.0,debit,False
+754,2025-10-16,IKEA,Shopping,12.33,debit,False
+755,2025-10-17,Sobeys,Groceries,95.46,debit,False
+756,2025-10-17,Costco,Groceries,89.23,debit,False
+757,2025-10-18,Sushi Place,Dining,27.23,debit,False
+758,2025-10-18,Costco,Groceries,51.66,debit,False
+759,2025-10-18,Gym Membership,Health,68.23,debit,False
+760,2025-10-18,Shell,Transport,41.16,debit,False
+761,2025-10-18,Cineplex,Entertainment,2.32,debit,False
+762,2025-10-18,Steam,Entertainment,33.9,debit,False
+763,2025-10-19,IKEA,Shopping,56.08,debit,False
+764,2025-10-19,H&M,Shopping,94.77,debit,False
+765,2025-10-19,Netflix,Entertainment,14.27,debit,False
+766,2025-10-19,Shell,Transport,52.07,debit,False
+767,2025-10-19,Tim Hortons,Dining,29.82,debit,False
+768,2025-10-20,Gym Membership,Health,20.94,debit,False
+769,2025-10-21,Costco,Groceries,132.04,debit,False
+770,2025-10-21,Spotify,Entertainment,16.96,debit,False
+771,2025-10-21,Walmart,Groceries,58.23,debit,False
+772,2025-10-22,Uber,Transport,47.03,debit,False
+773,2025-10-22,Gym Membership,Health,14.76,debit,False
+774,2025-10-22,Amazon,Shopping,1.0,debit,False
+775,2025-10-23,Local Bistro,Dining,12.6,debit,False
+776,2025-10-23,Spotify,Entertainment,20.67,debit,False
+777,2025-10-24,Sushi Place,Dining,35.74,debit,False
+778,2025-10-24,Loblaws,Groceries,108.83,debit,False
+779,2025-10-24,Shell,Transport,19.91,debit,False
+780,2025-10-25,McDonald's,Dining,12.76,debit,False
+781,2025-10-25,H&M,Shopping,132.43,debit,False
+782,2025-10-25,Amazon,Shopping,85.03,debit,False
+783,2025-10-25,Sobeys,Groceries,60.69,debit,False
+784,2025-10-25,McDonald's,Dining,16.98,debit,False
+785,2025-10-26,Tim Hortons,Dining,9.0,debit,False
+786,2025-10-26,Sobeys,Groceries,60.13,debit,False
+787,2025-10-26,Tim Hortons,Dining,28.93,debit,False
+788,2025-10-26,Rogers,Utilities,97.93,debit,False
+789,2025-10-27,Loblaws,Groceries,83.26,debit,False
+790,2025-10-27,Cineplex,Entertainment,33.97,debit,False
+791,2025-10-27,Employer Payroll,Income,2211.4,credit,False
+792,2025-10-27,Steam,Entertainment,13.53,debit,False
+793,2025-10-27,Esso,Transport,43.82,debit,False
+794,2025-10-27,IKEA,Shopping,43.58,debit,False
+795,2025-10-27,McDonald's,Dining,37.04,debit,False
+796,2025-10-28,Dentist,Health,124.99,debit,False
+797,2025-10-28,Shoppers Drug Mart,Health,64.91,debit,False
+798,2025-10-29,Sushi Place,Dining,41.25,debit,False
+799,2025-10-29,City Water,Utilities,98.05,debit,False
+800,2025-10-29,Spotify,Entertainment,18.2,debit,False
+801,2025-10-29,Cineplex,Entertainment,51.93,debit,False
+802,2025-10-29,Shell,Transport,50.98,debit,False
+803,2025-10-30,Shell,Transport,60.31,debit,False
+804,2025-10-30,City Water,Utilities,129.7,debit,False
+805,2025-10-30,Costco,Groceries,101.1,debit,False
+806,2025-10-30,Steam,Entertainment,23.63,debit,False
+807,2025-10-30,Tim Hortons,Dining,48.53,debit,False
+808,2025-10-30,Rogers,Utilities,81.21,debit,False
+809,2025-10-31,Shell,Transport,41.16,debit,False
+810,2025-10-31,Amazon,Shopping,58.26,debit,False
+811,2025-10-31,IKEA,Shopping,54.82,debit,False
+812,2025-10-31,IKEA,Shopping,27.24,debit,False
+813,2025-11-01,Sobeys,Groceries,85.17,debit,False
+814,2025-11-01,Shell,Transport,50.3,debit,False
+815,2025-11-01,Uber,Transport,53.47,debit,False
+816,2025-11-01,Sobeys,Groceries,100.64,debit,False
+817,2025-11-02,Spotify,Entertainment,19.55,debit,False
+818,2025-11-02,Sobeys,Groceries,85.98,debit,False
+819,2025-11-02,Metro Transit,Transport,39.66,debit,False
+820,2025-11-02,Dentist,Health,131.72,debit,False
+821,2025-11-02,Costco,Groceries,91.72,debit,False
+822,2025-11-03,H&M,Shopping,88.55,debit,False
+823,2025-11-03,Freelance Transfer,Income,2260.84,credit,False
+824,2025-11-03,Amazon,Shopping,165.39,debit,False
+825,2025-11-04,Loblaws,Groceries,101.37,debit,False
+826,2025-11-04,Dentist,Health,26.4,debit,False
+827,2025-11-04,City Water,Utilities,124.82,debit,False
+828,2025-11-04,Dentist,Health,40.07,debit,False
+829,2025-11-04,Employer Payroll,Income,2270.16,credit,False
+830,2025-11-05,McDonald's,Dining,18.06,debit,False
+831,2025-11-05,Rogers,Utilities,49.26,debit,False
+832,2025-11-05,Amazon,Shopping,113.18,debit,False
+833,2025-11-06,City Water,Utilities,105.03,debit,False
+834,2025-11-06,McDonald's,Dining,21.03,debit,False
+835,2025-11-06,Spotify,Entertainment,22.83,debit,False
+836,2025-11-06,E-Transfer,Income,1964.19,credit,False
+837,2025-11-06,Gym Membership,Health,110.28,debit,False
+838,2025-11-06,H&M,Shopping,134.38,debit,False
+839,2025-11-07,Sobeys,Groceries,77.23,debit,False
+840,2025-11-07,Dentist,Health,19.99,debit,False
+841,2025-11-07,Sushi Place,Dining,17.83,debit,False
+842,2025-11-07,Sobeys,Groceries,100.42,debit,False
+843,2025-11-07,Metro Transit,Transport,48.59,debit,False
+844,2025-11-08,Spotify,Entertainment,112.09,debit,True
+845,2025-11-08,Loblaws,Groceries,56.72,debit,False
+846,2025-11-08,Costco,Groceries,466.25,debit,True
+847,2025-11-08,Amazon,Shopping,87.65,debit,False
+848,2025-11-08,Local Bistro,Dining,30.11,debit,False
+849,2025-11-08,Shell,Transport,1.0,debit,False
+850,2025-11-08,Gym Membership,Health,1.0,debit,False
+851,2025-11-08,Spotify,Entertainment,31.01,debit,False
+852,2025-11-09,Local Bistro,Dining,21.47,debit,False
+853,2025-11-09,Tim Hortons,Dining,39.26,debit,False
+854,2025-11-09,H&M,Shopping,84.8,debit,False
+855,2025-11-10,Steam,Entertainment,23.17,debit,False
+856,2025-11-11,Sobeys,Groceries,425.4,debit,True
+857,2025-11-11,Loblaws,Groceries,140.15,debit,False
+858,2025-11-11,Esso,Transport,40.53,debit,False
+859,2025-11-11,IKEA,Shopping,57.53,debit,False
+860,2025-11-11,Shell,Transport,44.61,debit,False
+861,2025-11-11,Nova Scotia Power,Utilities,92.42,debit,False
+862,2025-11-12,Shoppers Drug Mart,Health,128.42,debit,False
+863,2025-11-12,Local Bistro,Dining,42.25,debit,False
+864,2025-11-12,Nova Scotia Power,Utilities,97.39,debit,False
+865,2025-11-13,Bell,Utilities,81.66,debit,False
+866,2025-11-13,Loblaws,Groceries,79.94,debit,False
+867,2025-11-14,Sobeys,Groceries,92.95,debit,False
+868,2025-11-14,Costco,Groceries,104.26,debit,False
+869,2025-11-14,Spotify,Entertainment,20.36,debit,False
+870,2025-11-15,Tim Hortons,Dining,47.72,debit,False
+871,2025-11-15,Steam,Entertainment,36.12,debit,False
+872,2025-11-15,Rogers,Utilities,123.82,debit,False
+873,2025-11-15,Shell,Transport,55.22,debit,False
+874,2025-11-15,Steam,Entertainment,33.74,debit,False
+875,2025-11-15,Cineplex,Entertainment,18.63,debit,False
+876,2025-11-16,Shoppers Drug Mart,Health,49.74,debit,False
+877,2025-11-16,Costco,Groceries,12.92,debit,False
+878,2025-11-16,Sobeys,Groceries,97.73,debit,False
+879,2025-11-16,H&M,Shopping,82.17,debit,False
+880,2025-11-17,Loblaws,Groceries,83.89,debit,False
+881,2025-11-17,Shoppers Drug Mart,Health,35.53,debit,False
+882,2025-11-17,IKEA,Shopping,37.88,debit,False
+883,2025-11-17,City Water,Utilities,67.0,debit,False
+884,2025-11-18,Costco,Groceries,42.81,debit,False
+885,2025-11-18,Spotify,Entertainment,19.17,debit,False
+886,2025-11-18,Shell,Transport,14.91,debit,False
+887,2025-11-19,McDonald's,Dining,39.4,debit,False
+888,2025-11-19,Walmart,Groceries,117.53,debit,False
+889,2025-11-20,Netflix,Entertainment,21.04,debit,False
+890,2025-11-20,Costco,Groceries,93.06,debit,False
+891,2025-11-20,Dentist,Health,1.0,debit,False
+892,2025-11-20,Netflix,Entertainment,14.22,debit,False
+893,2025-11-20,Shell,Transport,27.28,debit,False
+894,2025-11-21,Loblaws,Groceries,43.67,debit,False
+895,2025-11-21,Walmart,Groceries,29.26,debit,False
+896,2025-11-21,Dentist,Health,93.25,debit,False
+897,2025-11-21,Local Bistro,Dining,25.28,debit,False
+898,2025-11-21,Sobeys,Groceries,108.16,debit,False
+899,2025-11-22,Metro Transit,Transport,47.94,debit,False
+900,2025-11-22,H&M,Shopping,155.61,debit,False
+901,2025-11-22,Esso,Transport,75.63,debit,False
+902,2025-11-22,E-Transfer,Income,2103.39,credit,False
+903,2025-11-23,Tim Hortons,Dining,41.45,debit,False
+904,2025-11-23,Nova Scotia Power,Utilities,94.72,debit,False
+905,2025-11-23,Esso,Transport,25.26,debit,False
+906,2025-11-24,Sobeys,Groceries,100.36,debit,False
+907,2025-11-24,McDonald's,Dining,25.48,debit,False
+908,2025-11-25,Walmart,Groceries,93.61,debit,False
+909,2025-11-25,Employer Payroll,Income,2341.64,credit,False
+910,2025-11-25,IKEA,Shopping,86.66,debit,False
+911,2025-11-25,Local Bistro,Dining,42.3,debit,False
+912,2025-11-26,Shoppers Drug Mart,Health,64.34,debit,False
+913,2025-11-26,Costco,Groceries,84.0,debit,False
+914,2025-11-26,Nova Scotia Power,Utilities,71.41,debit,False
+915,2025-11-27,Gym Membership,Health,51.68,debit,False
+916,2025-11-27,Netflix,Entertainment,21.6,debit,False
+917,2025-11-27,Local Bistro,Dining,12.58,debit,False
+918,2025-11-28,Nova Scotia Power,Utilities,96.64,debit,False
+919,2025-11-28,Tim Hortons,Dining,32.33,debit,False
+920,2025-11-28,Amazon,Shopping,62.5,debit,False
+921,2025-11-28,Costco,Groceries,92.81,debit,False
+922,2025-11-28,Shell,Transport,31.59,debit,False
+923,2025-11-28,Local Bistro,Dining,43.01,debit,False
+924,2025-11-28,Steam,Entertainment,33.92,debit,False
+925,2025-11-29,Freelance Transfer,Income,2362.16,credit,False
+926,2025-11-29,Loblaws,Groceries,77.4,debit,False
+927,2025-11-29,Loblaws,Groceries,48.57,debit,False
+928,2025-11-29,Metro Transit,Transport,25.71,debit,False
+929,2025-11-29,Dentist,Health,42.79,debit,False
+930,2025-11-29,Costco,Groceries,86.49,debit,False
+931,2025-11-30,Spotify,Entertainment,18.39,debit,False
+932,2025-11-30,Walmart,Groceries,34.5,debit,False
+933,2025-12-01,Gym Membership,Health,27.62,debit,False
+934,2025-12-01,Costco,Groceries,84.57,debit,False
+935,2025-12-01,Shoppers Drug Mart,Health,41.05,debit,False
+936,2025-12-01,Sushi Place,Dining,15.91,debit,False
+937,2025-12-01,McDonald's,Dining,34.36,debit,False
+938,2025-12-02,Walmart,Groceries,82.35,debit,False
+939,2025-12-02,Walmart,Groceries,73.9,debit,False
+940,2025-12-02,Amazon,Shopping,62.06,debit,False
+941,2025-12-03,Nova Scotia Power,Utilities,139.97,debit,False
+942,2025-12-03,H&M,Shopping,86.98,debit,False
+943,2025-12-03,Local Bistro,Dining,41.56,debit,False
+944,2025-12-03,Walmart,Groceries,38.81,debit,False
+945,2025-12-04,Employer Payroll,Income,1902.74,credit,False
+946,2025-12-04,H&M,Shopping,153.64,debit,False
+947,2025-12-04,Loblaws,Groceries,92.51,debit,False
+948,2025-12-05,Tim Hortons,Dining,39.22,debit,False
+949,2025-12-05,Loblaws,Groceries,79.96,debit,False
+950,2025-12-05,Best Buy,Shopping,51.4,debit,False
+951,2025-12-05,Amazon,Shopping,1.0,debit,False
+952,2025-12-06,Walmart,Groceries,111.98,debit,False
+953,2025-12-06,Amazon,Shopping,173.03,debit,False
+954,2025-12-06,Costco,Groceries,93.76,debit,False
+955,2025-12-06,Spotify,Entertainment,31.27,debit,False
+956,2025-12-07,Loblaws,Groceries,39.91,debit,False
+957,2025-12-07,Sushi Place,Dining,67.67,debit,False
+958,2025-12-08,Shell,Transport,37.76,debit,False
+959,2025-12-08,Steam,Entertainment,22.8,debit,False
+960,2025-12-08,Uber,Transport,31.69,debit,False
+961,2025-12-08,McDonald's,Dining,41.1,debit,False
+962,2025-12-08,Steam,Entertainment,18.75,debit,False
+963,2025-12-08,Shoppers Drug Mart,Health,13.1,debit,False
+964,2025-12-09,E-Transfer,Income,2244.65,credit,False
+965,2025-12-09,Best Buy,Shopping,127.8,debit,False
+966,2025-12-09,Loblaws,Groceries,179.13,debit,False
+967,2025-12-09,Gym Membership,Health,114.98,debit,False
+968,2025-12-09,Gym Membership,Health,36.17,debit,False
+969,2025-12-09,Uber,Transport,2.29,debit,False
+970,2025-12-10,Steam,Entertainment,18.05,debit,False
+971,2025-12-10,Loblaws,Groceries,119.01,debit,False
+972,2025-12-10,Amazon,Shopping,104.68,debit,False
+973,2025-12-10,IKEA,Shopping,1.0,debit,False
+974,2025-12-10,H&M,Shopping,107.8,debit,False
+975,2025-12-10,Cineplex,Entertainment,21.95,debit,False
+976,2025-12-10,Walmart,Groceries,84.44,debit,False
+977,2025-12-11,McDonald's,Dining,64.67,debit,True
+978,2025-12-11,Sobeys,Groceries,69.05,debit,False
+979,2025-12-11,Steam,Entertainment,16.11,debit,False
+980,2025-12-11,IKEA,Shopping,132.27,debit,False
+981,2025-12-12,McDonald's,Dining,17.74,debit,False
+982,2025-12-13,McDonald's,Dining,38.88,debit,False
+983,2025-12-13,Best Buy,Shopping,100.81,debit,False
+984,2025-12-13,Loblaws,Groceries,65.76,debit,False
+985,2025-12-13,Best Buy,Shopping,96.6,debit,False
+986,2025-12-14,E-Transfer,Income,1873.49,credit,False
+987,2025-12-14,Sushi Place,Dining,15.7,debit,False
+988,2025-12-14,Local Bistro,Dining,27.64,debit,False
+989,2025-12-14,Costco,Groceries,35.79,debit,False
+990,2025-12-14,Rogers,Utilities,95.22,debit,False
+991,2025-12-14,Steam,Entertainment,14.52,debit,False
+992,2025-12-15,Rogers,Utilities,100.75,debit,False
+993,2025-12-15,City Water,Utilities,115.22,debit,False
+994,2025-12-15,Dentist,Health,41.47,debit,False
+995,2025-12-16,Costco,Groceries,80.16,debit,False
+996,2025-12-16,Shoppers Drug Mart,Health,31.62,debit,False
+997,2025-12-16,Steam,Entertainment,17.81,debit,False
+998,2025-12-17,McDonald's,Dining,23.82,debit,False
+999,2025-12-17,Rogers,Utilities,117.52,debit,False
+1000,2025-12-17,Tim Hortons,Dining,25.68,debit,False
+1001,2025-12-18,Tim Hortons,Dining,37.5,debit,False
+1002,2025-12-18,Costco,Groceries,59.36,debit,False
+1003,2025-12-18,Freelance Transfer,Income,2267.01,credit,False
+1004,2025-12-18,Sushi Place,Dining,28.12,debit,False
+1005,2025-12-18,Shell,Transport,65.07,debit,False
+1006,2025-12-19,Sobeys,Groceries,51.84,debit,False
+1007,2025-12-19,Tim Hortons,Dining,39.73,debit,False
+1008,2025-12-19,Costco,Groceries,110.3,debit,False
+1009,2025-12-20,Loblaws,Groceries,56.58,debit,False
+1010,2025-12-20,Esso,Transport,51.7,debit,False
+1011,2025-12-20,Sobeys,Groceries,101.78,debit,False
+1012,2025-12-20,Freelance Transfer,Income,1833.33,credit,False
+1013,2025-12-20,Shell,Transport,44.44,debit,False
+1014,2025-12-21,Cineplex,Entertainment,20.0,debit,False
+1015,2025-12-21,Tim Hortons,Dining,27.86,debit,False
+1016,2025-12-22,Spotify,Entertainment,16.72,debit,False
+1017,2025-12-23,Sushi Place,Dining,30.33,debit,False
+1018,2025-12-24,Freelance Transfer,Income,2104.76,credit,False
+1019,2025-12-24,IKEA,Shopping,7.71,debit,False
+1020,2025-12-24,Loblaws,Groceries,60.42,debit,False
+1021,2025-12-25,Sushi Place,Dining,41.12,debit,False
+1022,2025-12-25,Best Buy,Shopping,71.72,debit,False
+1023,2025-12-25,Steam,Entertainment,39.82,debit,False
+1024,2025-12-25,McDonald's,Dining,51.53,debit,False
+1025,2025-12-25,Sushi Place,Dining,8.08,debit,False
+1026,2025-12-25,Amazon,Shopping,101.11,debit,False
+1027,2025-12-26,Nova Scotia Power,Utilities,79.59,debit,False
+1028,2025-12-26,Sushi Place,Dining,37.24,debit,False
+1029,2025-12-26,Netflix,Entertainment,32.04,debit,False
+1030,2025-12-26,IKEA,Shopping,68.03,debit,False
+1031,2025-12-26,City Water,Utilities,88.75,debit,False
+1032,2025-12-26,Local Bistro,Dining,28.01,debit,False
+1033,2025-12-27,H&M,Shopping,49.59,debit,False
+1034,2025-12-27,Amazon,Shopping,105.06,debit,False
+1035,2025-12-27,Shoppers Drug Mart,Health,54.09,debit,False
+1036,2025-12-28,Cineplex,Entertainment,36.02,debit,False
+1037,2025-12-28,Bell,Utilities,124.27,debit,False
+1038,2025-12-28,Nova Scotia Power,Utilities,81.45,debit,False
+1039,2025-12-28,Loblaws,Groceries,76.81,debit,False
+1040,2025-12-28,Costco,Groceries,95.95,debit,False
+1041,2025-12-28,Cineplex,Entertainment,15.82,debit,False
+1042,2025-12-29,Sushi Place,Dining,12.97,debit,False
+1043,2025-12-29,Best Buy,Shopping,77.05,debit,False
+1044,2025-12-29,Netflix,Entertainment,18.37,debit,False
+1045,2025-12-29,Sobeys,Groceries,68.68,debit,False
+1046,2025-12-29,Spotify,Entertainment,26.03,debit,False
+1047,2025-12-29,Esso,Transport,38.43,debit,False
+1048,2025-12-30,Shell,Transport,14.49,debit,False
+1049,2025-12-30,Costco,Groceries,50.99,debit,False
+1050,2025-12-31,Best Buy,Shopping,64.1,debit,False
+1051,2026-01-01,Costco,Groceries,5.84,debit,False
+1052,2026-01-01,Amazon,Shopping,101.9,debit,False
+1053,2026-01-01,Gym Membership,Health,58.33,debit,False
+1054,2026-01-02,Shell,Transport,64.77,debit,False
+1055,2026-01-02,Gym Membership,Health,70.22,debit,False
+1056,2026-01-02,Costco,Groceries,20.15,debit,False
+1057,2026-01-02,Esso,Transport,30.16,debit,False
+1058,2026-01-02,Metro Transit,Transport,64.62,debit,False
+1059,2026-01-02,Local Bistro,Dining,30.88,debit,False
+1060,2026-01-02,Esso,Transport,40.25,debit,False
+1061,2026-01-03,City Water,Utilities,66.21,debit,False
+1062,2026-01-03,Amazon,Shopping,108.51,debit,False
+1063,2026-01-03,H&M,Shopping,108.85,debit,False
+1064,2026-01-04,Sushi Place,Dining,16.85,debit,False
+1065,2026-01-04,McDonald's,Dining,16.04,debit,False
+1066,2026-01-04,IKEA,Shopping,158.57,debit,False
+1067,2026-01-05,Loblaws,Groceries,123.45,debit,False
+1068,2026-01-05,Rogers,Utilities,92.06,debit,False
+1069,2026-01-05,Best Buy,Shopping,56.24,debit,False
+1070,2026-01-05,Sobeys,Groceries,81.77,debit,False
+1071,2026-01-05,Uber,Transport,19.8,debit,False
+1072,2026-01-05,Best Buy,Shopping,44.18,debit,False
+1073,2026-01-06,Steam,Entertainment,25.58,debit,False
+1074,2026-01-06,Esso,Transport,21.6,debit,False
+1075,2026-01-06,E-Transfer,Income,13589.23,credit,True
+1076,2026-01-06,Netflix,Entertainment,26.39,debit,False
+1077,2026-01-07,Local Bistro,Dining,59.34,debit,False
+1078,2026-01-07,Walmart,Groceries,36.77,debit,False
+1079,2026-01-07,Cineplex,Entertainment,17.63,debit,False
+1080,2026-01-07,Rogers,Utilities,79.12,debit,False
+1081,2026-01-08,IKEA,Shopping,84.24,debit,False
+1082,2026-01-08,Walmart,Groceries,79.59,debit,False
+1083,2026-01-08,Cineplex,Entertainment,33.73,debit,False
+1084,2026-01-09,Sobeys,Groceries,78.98,debit,False
+1085,2026-01-09,Local Bistro,Dining,9.52,debit,False
+1086,2026-01-10,Local Bistro,Dining,34.72,debit,False
+1087,2026-01-11,Steam,Entertainment,21.63,debit,False
+1088,2026-01-11,City Water,Utilities,101.03,debit,False
+1089,2026-01-11,Uber,Transport,48.14,debit,False
+1090,2026-01-11,Shell,Transport,52.42,debit,False
+1091,2026-01-11,McDonald's,Dining,3.74,debit,False
+1092,2026-01-11,Dentist,Health,43.05,debit,False
+1093,2026-01-11,Cineplex,Entertainment,12.83,debit,False
+1094,2026-01-12,Tim Hortons,Dining,33.33,debit,False
+1095,2026-01-12,Best Buy,Shopping,149.21,debit,False
+1096,2026-01-12,Amazon,Shopping,27.18,debit,False
+1097,2026-01-12,Local Bistro,Dining,35.09,debit,False
+1098,2026-01-12,Metro Transit,Transport,59.4,debit,False
+1099,2026-01-12,H&M,Shopping,65.45,debit,False
+1100,2026-01-12,Rogers,Utilities,145.11,debit,False
+1101,2026-01-12,Steam,Entertainment,7.07,debit,False
+1102,2026-01-13,Amazon,Shopping,12.48,debit,False
+1103,2026-01-14,Costco,Groceries,61.11,debit,False
+1104,2026-01-14,Sobeys,Groceries,103.14,debit,False
+1105,2026-01-14,Local Bistro,Dining,27.7,debit,False
+1106,2026-01-14,H&M,Shopping,50.67,debit,False
+1107,2026-01-15,Shell,Transport,71.43,debit,False
+1108,2026-01-15,Costco,Groceries,127.59,debit,False
+1109,2026-01-15,IKEA,Shopping,91.95,debit,False
+1110,2026-01-15,H&M,Shopping,42.53,debit,False
+1111,2026-01-16,Shoppers Drug Mart,Health,35.98,debit,False
+1112,2026-01-16,Sobeys,Groceries,48.66,debit,False
+1113,2026-01-16,Uber,Transport,59.62,debit,False
+1114,2026-01-16,Freelance Transfer,Income,10136.1,credit,True
+1115,2026-01-16,Nova Scotia Power,Utilities,76.15,debit,False
+1116,2026-01-16,Dentist,Health,43.72,debit,False
+1117,2026-01-16,Bell,Utilities,117.16,debit,False
+1118,2026-01-17,Best Buy,Shopping,1.0,debit,False
+1119,2026-01-17,Bell,Utilities,90.98,debit,False
+1120,2026-01-17,Metro Transit,Transport,36.89,debit,False
+1121,2026-01-17,Local Bistro,Dining,23.64,debit,False
+1122,2026-01-17,Best Buy,Shopping,113.96,debit,False
+1123,2026-01-17,Best Buy,Shopping,145.55,debit,False
+1124,2026-01-18,Costco,Groceries,271.85,debit,True
+1125,2026-01-18,Employer Payroll,Income,2288.78,credit,False
+1126,2026-01-18,Steam,Entertainment,20.11,debit,False
+1127,2026-01-19,Local Bistro,Dining,3.0,debit,False
+1128,2026-01-19,Cineplex,Entertainment,1.0,debit,False
+1129,2026-01-19,Sobeys,Groceries,67.81,debit,False
+1130,2026-01-19,Sobeys,Groceries,105.71,debit,False
+1131,2026-01-19,Netflix,Entertainment,21.09,debit,False
+1132,2026-01-19,Nova Scotia Power,Utilities,117.74,debit,False
+1133,2026-01-19,Sobeys,Groceries,116.58,debit,False
+1134,2026-01-20,City Water,Utilities,72.82,debit,False
+1135,2026-01-20,Sobeys,Groceries,52.43,debit,False
+1136,2026-01-21,Gym Membership,Health,87.17,debit,False
+1137,2026-01-22,Sobeys,Groceries,33.4,debit,False
+1138,2026-01-22,IKEA,Shopping,147.99,debit,False
+1139,2026-01-22,IKEA,Shopping,45.08,debit,False
+1140,2026-01-22,Freelance Transfer,Income,2107.95,credit,False
+1141,2026-01-22,Walmart,Groceries,50.54,debit,False
+1142,2026-01-22,Tim Hortons,Dining,10.97,debit,False
+1143,2026-01-23,Sobeys,Groceries,91.86,debit,False
+1144,2026-01-23,Walmart,Groceries,104.51,debit,False
+1145,2026-01-23,Metro Transit,Transport,14.94,debit,False
+1146,2026-01-23,Loblaws,Groceries,116.56,debit,False
+1147,2026-01-23,Best Buy,Shopping,25.1,debit,False
+1148,2026-01-23,Tim Hortons,Dining,22.24,debit,False
+1149,2026-01-24,Steam,Entertainment,13.83,debit,False
+1150,2026-01-24,Sushi Place,Dining,40.58,debit,False
+1151,2026-01-24,Uber,Transport,53.43,debit,False
+1152,2026-01-24,Walmart,Groceries,104.98,debit,False
+1153,2026-01-24,Cineplex,Entertainment,22.3,debit,False
+1154,2026-01-24,Shoppers Drug Mart,Health,239.09,debit,True
+1155,2026-01-24,Metro Transit,Transport,54.95,debit,False
+1156,2026-01-25,Nova Scotia Power,Utilities,111.44,debit,False
+1157,2026-01-25,Amazon,Shopping,158.72,debit,False
+1158,2026-01-25,Spotify,Entertainment,19.94,debit,False
+1159,2026-01-25,Local Bistro,Dining,38.03,debit,False
+1160,2026-01-25,H&M,Shopping,20.41,debit,False
+1161,2026-01-26,Shell,Transport,37.86,debit,False
+1162,2026-01-26,Walmart,Groceries,221.19,debit,True
+1163,2026-01-26,Uber,Transport,37.26,debit,False
+1164,2026-01-27,Rogers,Utilities,145.48,debit,False
+1165,2026-01-27,Nova Scotia Power,Utilities,101.0,debit,False
+1166,2026-01-27,City Water,Utilities,94.05,debit,False
+1167,2026-01-27,City Water,Utilities,106.73,debit,False
+1168,2026-01-28,Amazon,Shopping,111.09,debit,True
+1169,2026-01-28,Uber,Transport,24.76,debit,False
+1170,2026-01-28,Amazon,Shopping,93.83,debit,False
+1171,2026-01-28,Local Bistro,Dining,40.15,debit,False
+1172,2026-01-28,Loblaws,Groceries,65.52,debit,False
+1173,2026-01-29,Esso,Transport,9.48,debit,False
+1174,2026-01-29,Metro Transit,Transport,47.87,debit,False
+1175,2026-01-29,McDonald's,Dining,39.58,debit,False
+1176,2026-01-29,Uber,Transport,37.61,debit,False
+1177,2026-01-30,Esso,Transport,53.17,debit,False
+1178,2026-01-30,Dentist,Health,32.59,debit,False
+1179,2026-01-30,H&M,Shopping,67.42,debit,False
+1180,2026-01-30,Metro Transit,Transport,30.93,debit,False
+1181,2026-01-31,Loblaws,Groceries,112.96,debit,False
+1182,2026-01-31,Sushi Place,Dining,36.12,debit,False
+1183,2026-01-31,Sushi Place,Dining,25.7,debit,False
+1184,2026-02-01,Gym Membership,Health,6.87,debit,False
+1185,2026-02-01,Loblaws,Groceries,34.95,debit,False
+1186,2026-02-01,Cineplex,Entertainment,14.72,debit,False
+1187,2026-02-01,Shoppers Drug Mart,Health,196.07,debit,True
+1188,2026-02-01,Tim Hortons,Dining,20.39,debit,False
+1189,2026-02-02,Steam,Entertainment,20.77,debit,False
+1190,2026-02-02,H&M,Shopping,19.59,debit,False
+1191,2026-02-02,Dentist,Health,1.0,debit,False
+1192,2026-02-02,Shoppers Drug Mart,Health,26.86,debit,False
+1193,2026-02-02,Amazon,Shopping,41.86,debit,False
+1194,2026-02-03,Loblaws,Groceries,129.96,debit,False
+1195,2026-02-03,Uber,Transport,48.95,debit,False
+1196,2026-02-03,Shoppers Drug Mart,Health,27.49,debit,False
+1197,2026-02-03,Shell,Transport,43.33,debit,False
+1198,2026-02-03,Sobeys,Groceries,90.57,debit,False
+1199,2026-02-04,Cineplex,Entertainment,32.48,debit,False
+1200,2026-02-05,McDonald's,Dining,43.26,debit,False
+1201,2026-02-05,Freelance Transfer,Income,2254.3,credit,False
+1202,2026-02-05,Costco,Groceries,101.54,debit,False
+1203,2026-02-05,Best Buy,Shopping,92.03,debit,False
+1204,2026-02-05,Cineplex,Entertainment,23.91,debit,False
+1205,2026-02-05,H&M,Shopping,8.68,debit,False
+1206,2026-02-06,H&M,Shopping,100.71,debit,False
+1207,2026-02-06,Steam,Entertainment,25.72,debit,False
+1208,2026-02-06,Cineplex,Entertainment,4.69,debit,False
+1209,2026-02-07,Rogers,Utilities,98.45,debit,False
+1210,2026-02-07,Dentist,Health,59.06,debit,False
+1211,2026-02-07,Spotify,Entertainment,18.26,debit,False
+1212,2026-02-07,Best Buy,Shopping,86.27,debit,False
+1213,2026-02-07,Esso,Transport,37.61,debit,False
+1214,2026-02-08,Tim Hortons,Dining,20.46,debit,False
+1215,2026-02-08,Loblaws,Groceries,137.49,debit,False
+1216,2026-02-08,Walmart,Groceries,126.44,debit,False
+1217,2026-02-08,Walmart,Groceries,46.23,debit,False
+1218,2026-02-08,Sobeys,Groceries,105.69,debit,False
+1219,2026-02-09,Dentist,Health,32.38,debit,False
+1220,2026-02-09,Shell,Transport,50.27,debit,False
+1221,2026-02-09,Steam,Entertainment,12.16,debit,False
+1222,2026-02-10,City Water,Utilities,142.63,debit,False
+1223,2026-02-10,E-Transfer,Income,2139.84,credit,False
+1224,2026-02-11,Freelance Transfer,Income,2373.83,credit,False
+1225,2026-02-11,Steam,Entertainment,7.62,debit,False
+1226,2026-02-11,Employer Payroll,Income,2377.46,credit,False
+1227,2026-02-11,Costco,Groceries,107.28,debit,False
+1228,2026-02-11,Netflix,Entertainment,20.76,debit,False
+1229,2026-02-11,Best Buy,Shopping,99.11,debit,False
+1230,2026-02-12,Sobeys,Groceries,89.61,debit,False
+1231,2026-02-12,Metro Transit,Transport,60.33,debit,False
+1232,2026-02-13,Bell,Utilities,80.83,debit,False
+1233,2026-02-13,Cineplex,Entertainment,29.09,debit,True
+1234,2026-02-13,Amazon,Shopping,109.65,debit,False
+1235,2026-02-13,Tim Hortons,Dining,18.91,debit,False
+1236,2026-02-13,Cineplex,Entertainment,37.19,debit,False
+1237,2026-02-13,Cineplex,Entertainment,39.93,debit,False
+1238,2026-02-14,Best Buy,Shopping,76.27,debit,False
+1239,2026-02-14,Esso,Transport,44.09,debit,False
+1240,2026-02-14,Shell,Transport,37.26,debit,False
+1241,2026-02-15,Sushi Place,Dining,1.0,debit,False
+1242,2026-02-15,Amazon,Shopping,50.34,debit,False
+1243,2026-02-15,McDonald's,Dining,49.65,debit,False
+1244,2026-02-16,Steam,Entertainment,27.9,debit,False
+1245,2026-02-16,Rogers,Utilities,108.5,debit,False
+1246,2026-02-16,Shoppers Drug Mart,Health,82.82,debit,False
+1247,2026-02-17,Metro Transit,Transport,46.99,debit,False
+1248,2026-02-17,Metro Transit,Transport,64.36,debit,False
+1249,2026-02-18,Uber,Transport,11.8,debit,False
+1250,2026-02-18,H&M,Shopping,17.72,debit,False
+1251,2026-02-18,Sobeys,Groceries,44.1,debit,False
+1252,2026-02-18,E-Transfer,Income,2341.53,credit,False
+1253,2026-02-18,Steam,Entertainment,20.09,debit,False
+1254,2026-02-19,H&M,Shopping,121.09,debit,False
+1255,2026-02-19,Dentist,Health,74.7,debit,False
+1256,2026-02-19,Costco,Groceries,75.59,debit,False
+1257,2026-02-19,Nova Scotia Power,Utilities,112.07,debit,False
+1258,2026-02-20,Netflix,Entertainment,24.25,debit,False
+1259,2026-02-20,Sobeys,Groceries,76.57,debit,False
+1260,2026-02-20,Esso,Transport,79.89,debit,False
+1261,2026-02-20,Uber,Transport,47.24,debit,False
+1262,2026-02-20,Steam,Entertainment,27.44,debit,False
+1263,2026-02-20,Walmart,Groceries,53.89,debit,False
+1264,2026-02-21,Sobeys,Groceries,157.8,debit,False
+1265,2026-02-21,Nova Scotia Power,Utilities,110.82,debit,False
+1266,2026-02-22,IKEA,Shopping,6.12,debit,False
+1267,2026-02-23,Walmart,Groceries,58.95,debit,False
+1268,2026-02-23,Best Buy,Shopping,94.48,debit,False
+1269,2026-02-23,Loblaws,Groceries,101.04,debit,False
+1270,2026-02-23,Spotify,Entertainment,14.35,debit,False
+1271,2026-02-23,Costco,Groceries,141.13,debit,False
+1272,2026-02-24,Costco,Groceries,57.24,debit,False
+1273,2026-02-24,Best Buy,Shopping,87.77,debit,False
+1274,2026-02-24,Dentist,Health,24.19,debit,False
+1275,2026-02-24,Shell,Transport,36.84,debit,False
+1276,2026-02-24,Local Bistro,Dining,13.06,debit,False
+1277,2026-02-25,Costco,Groceries,145.86,debit,False
+1278,2026-02-25,Sobeys,Groceries,104.53,debit,False
+1279,2026-02-25,IKEA,Shopping,72.71,debit,False
+1280,2026-02-25,Sobeys,Groceries,62.05,debit,False
+1281,2026-02-26,Steam,Entertainment,22.81,debit,False
+1282,2026-02-26,McDonald's,Dining,42.38,debit,False
+1283,2026-02-27,Metro Transit,Transport,80.17,debit,False
+1284,2026-02-27,Walmart,Groceries,61.0,debit,False
+1285,2026-02-27,Employer Payroll,Income,8177.26,credit,True
+1286,2026-02-27,Sushi Place,Dining,46.56,debit,False
+1287,2026-02-27,Local Bistro,Dining,21.14,debit,False
+1288,2026-02-27,Metro Transit,Transport,44.14,debit,False
+1289,2026-02-27,Esso,Transport,46.16,debit,False
+1290,2026-02-28,Cineplex,Entertainment,13.93,debit,False
+1291,2026-02-28,Loblaws,Groceries,91.34,debit,False
+1292,2026-02-28,Amazon,Shopping,135.0,debit,False
+1293,2026-03-01,Amazon,Shopping,50.4,debit,False
+1294,2026-03-01,Steam,Entertainment,7.46,debit,False
+1295,2026-03-01,Spotify,Entertainment,5.29,debit,False
+1296,2026-03-01,Costco,Groceries,79.4,debit,False
+1297,2026-03-02,Shell,Transport,22.25,debit,False
+1298,2026-03-02,Dentist,Health,51.94,debit,False
+1299,2026-03-02,Dentist,Health,35.3,debit,False
+1300,2026-03-02,Sobeys,Groceries,104.55,debit,False
+1301,2026-03-03,Metro Transit,Transport,53.29,debit,False
+1302,2026-03-03,Shoppers Drug Mart,Health,90.05,debit,False
+1303,2026-03-03,Shoppers Drug Mart,Health,59.74,debit,False
+1304,2026-03-03,Loblaws,Groceries,126.9,debit,False
+1305,2026-03-04,Metro Transit,Transport,49.36,debit,False
+1306,2026-03-04,Netflix,Entertainment,23.56,debit,False
+1307,2026-03-04,Tim Hortons,Dining,37.36,debit,False
+1308,2026-03-04,Metro Transit,Transport,48.02,debit,False
+1309,2026-03-04,Amazon,Shopping,69.11,debit,False
+1310,2026-03-05,McDonald's,Dining,55.14,debit,False
+1311,2026-03-05,Tim Hortons,Dining,24.73,debit,False
+1312,2026-03-05,McDonald's,Dining,15.29,debit,False
+1313,2026-03-05,Local Bistro,Dining,18.22,debit,False
+1314,2026-03-05,Esso,Transport,23.21,debit,False
+1315,2026-03-05,Loblaws,Groceries,61.46,debit,False
+1316,2026-03-06,Tim Hortons,Dining,21.69,debit,False
+1317,2026-03-06,H&M,Shopping,132.79,debit,False
+1318,2026-03-06,Walmart,Groceries,70.62,debit,False
+1319,2026-03-06,Metro Transit,Transport,49.45,debit,False
+1320,2026-03-07,Shell,Transport,21.49,debit,False
+1321,2026-03-07,Spotify,Entertainment,11.05,debit,False
+1322,2026-03-07,Loblaws,Groceries,102.92,debit,False
+1323,2026-03-07,Shell,Transport,26.03,debit,False
+1324,2026-03-07,McDonald's,Dining,34.95,debit,False
+1325,2026-03-07,Esso,Transport,17.66,debit,False
+1326,2026-03-08,Shell,Transport,51.99,debit,False
+1327,2026-03-08,Shoppers Drug Mart,Health,1.0,debit,False
+1328,2026-03-08,Costco,Groceries,54.74,debit,False
+1329,2026-03-08,Costco,Groceries,68.83,debit,False
+1330,2026-03-08,Rogers,Utilities,106.51,debit,False
+1331,2026-03-09,Sushi Place,Dining,4.53,debit,False
+1332,2026-03-09,Costco,Groceries,105.12,debit,False
+1333,2026-03-10,Loblaws,Groceries,76.23,debit,False
+1334,2026-03-10,IKEA,Shopping,133.07,debit,False
+1335,2026-03-10,Steam,Entertainment,11.89,debit,False
+1336,2026-03-10,Netflix,Entertainment,23.69,debit,False
+1337,2026-03-10,Esso,Transport,51.31,debit,False
+1338,2026-03-11,Dentist,Health,50.24,debit,False
+1339,2026-03-11,Netflix,Entertainment,9.83,debit,False
+1340,2026-03-12,Esso,Transport,51.68,debit,False
+1341,2026-03-13,Uber,Transport,73.63,debit,False
+1342,2026-03-13,Tim Hortons,Dining,37.33,debit,False
+1343,2026-03-13,McDonald's,Dining,47.93,debit,False
+1344,2026-03-14,Costco,Groceries,145.37,debit,False
+1345,2026-03-14,Sobeys,Groceries,115.71,debit,False
+1346,2026-03-14,Sobeys,Groceries,92.48,debit,False
+1347,2026-03-15,Uber,Transport,56.21,debit,False
+1348,2026-03-15,Spotify,Entertainment,5.29,debit,False
+1349,2026-03-15,Spotify,Entertainment,17.94,debit,False
+1350,2026-03-15,Walmart,Groceries,116.35,debit,False
+1351,2026-03-15,Costco,Groceries,106.11,debit,False
+1352,2026-03-15,Sushi Place,Dining,30.39,debit,False
+1353,2026-03-16,Local Bistro,Dining,30.12,debit,False
+1354,2026-03-16,Shell,Transport,84.08,debit,False
+1355,2026-03-16,Steam,Entertainment,14.94,debit,False
+1356,2026-03-16,Bell,Utilities,73.53,debit,False
+1357,2026-03-16,Metro Transit,Transport,74.63,debit,False
+1358,2026-03-16,Netflix,Entertainment,39.63,debit,False
+1359,2026-03-17,IKEA,Shopping,14.7,debit,False
+1360,2026-03-17,Esso,Transport,52.47,debit,False
+1361,2026-03-17,Tim Hortons,Dining,22.03,debit,False
+1362,2026-03-17,Employer Payroll,Income,2200.74,credit,False
+1363,2026-03-18,IKEA,Shopping,166.0,debit,False
+1364,2026-03-18,Esso,Transport,55.46,debit,False
+1365,2026-03-18,IKEA,Shopping,141.54,debit,False
+1366,2026-03-19,Walmart,Groceries,32.83,debit,False
+1367,2026-03-19,Sushi Place,Dining,44.69,debit,False
+1368,2026-03-19,Sobeys,Groceries,60.78,debit,False
+1369,2026-03-19,Tim Hortons,Dining,39.48,debit,False
+1370,2026-03-19,Dentist,Health,81.55,debit,False
+1371,2026-03-19,Walmart,Groceries,35.36,debit,False
+1372,2026-03-19,McDonald's,Dining,30.27,debit,False
+1373,2026-03-20,Walmart,Groceries,81.4,debit,False
+1374,2026-03-20,Sushi Place,Dining,29.12,debit,False
+1375,2026-03-20,Costco,Groceries,93.66,debit,False
+1376,2026-03-20,Cineplex,Entertainment,31.92,debit,False
+1377,2026-03-20,Rogers,Utilities,77.61,debit,False
+1378,2026-03-20,Sobeys,Groceries,80.53,debit,False
+1379,2026-03-20,H&M,Shopping,124.8,debit,False
+1380,2026-03-21,Best Buy,Shopping,64.71,debit,False
+1381,2026-03-21,E-Transfer,Income,2050.68,credit,False
+1382,2026-03-22,Local Bistro,Dining,25.35,debit,False
+1383,2026-03-23,Uber,Transport,14.03,debit,False
+1384,2026-03-23,IKEA,Shopping,1.0,debit,False
+1385,2026-03-24,Local Bistro,Dining,22.28,debit,False
+1386,2026-03-24,Loblaws,Groceries,71.12,debit,False
+1387,2026-03-24,Tim Hortons,Dining,19.3,debit,False
+1388,2026-03-25,Rogers,Utilities,86.06,debit,False
+1389,2026-03-25,Local Bistro,Dining,36.93,debit,False
+1390,2026-03-26,Walmart,Groceries,59.55,debit,False
+1391,2026-03-26,Shoppers Drug Mart,Health,82.93,debit,False
+1392,2026-03-26,IKEA,Shopping,73.43,debit,False
+1393,2026-03-27,Loblaws,Groceries,42.21,debit,False
+1394,2026-03-27,Best Buy,Shopping,114.07,debit,False
+1395,2026-03-27,Loblaws,Groceries,31.42,debit,False
+1396,2026-03-27,Sobeys,Groceries,59.6,debit,False
